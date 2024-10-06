@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/file.woff2') format('woff2');
+  /* src: url('https://static.wixstatic.com/ufonts/df742e_5dacf0d26ea04a02b9e4a946b7e88672/woff2/file.woff2') format('woff2'); */
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  color: red;
+}
+
+h1 {
+  height: 20px;
+  font-family: 'Gotham', sans-serif;
+}
+
+input {
+  font-family: 'Gotham', sans-serif;
+  height: 200px;
+}
+
+.long-section {
+  height: 300vh;
+}
